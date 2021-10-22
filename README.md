@@ -28,5 +28,5 @@ Please follow the instructions to obtain a [free academic license](https://www.g
 This repository is released under the Apache License 2.0. Please refer to the [LICENSE](https://github.com/cog-imperial/PartitionedFormulations_NN/blob/master/LICENSE) file for details.
 
 ## Acknowledgements
-This work was supported by Engineering & Physical Sciences Research Council (EPSRC) Fellowships to CT and RM (grants EP/T001577/1 and EP/P016871/1), an Imperial College Research Fellowship to CT, a Royal So- ciety Newton International Fellowship (NIF\R1\182194) to JK, a grant by the Swedish Cultural Foundation in Finland to JK, and a PhD studentship funded by BASF to AT.
+This work was supported by Engineering & Physical Sciences Research Council (EPSRC) Fellowships to CT and RM (grants EP/T001577/1 and EP/P016871/1), an Imperial College Research Fellowship to CT, a Royal Society Newton International Fellowship (NIF\R1\182194) to JK, a grant by the Swedish Cultural Foundation in Finland to JK, and a PhD studentship funded by BASF to AT.
 
